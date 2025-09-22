@@ -5,7 +5,7 @@ namespace Tyuiu.ChepragaDM.Sprint1.Task0.V17.Lib
     {
         public double Calculate()
         {
-            return 10 / (2 + 3);
+            return 18 / 6 * 2 - (4 - 3);
         }
     }
 }
