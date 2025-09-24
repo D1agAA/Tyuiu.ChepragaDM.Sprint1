@@ -1,5 +1,5 @@
-﻿using Tyuiu.ChepragaDM.Sprint1.Task0.V17.Lib; 
-namespace Tyuiu.ChepragaDM.Sprint1.Task0.V17.Test
+﻿using Tyuiu.ChepragaDM.Sprint1.Task0.V7.Lib; 
+namespace Tyuiu.ChepragaDM.Sprint1.Task0.V7.Test
 {
     [TestClass]
     public sealed class DataServiceTest
