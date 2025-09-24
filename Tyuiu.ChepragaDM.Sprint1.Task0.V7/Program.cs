@@ -6,6 +6,7 @@ namespace Tyuiu.ChepragaDM.Sprint1.Task0.V7
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+
             Console.Title = "Спринт #1 | Выполнил: Чепрага Д. М. | ИБКСб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
@@ -25,6 +26,7 @@ namespace Tyuiu.ChepragaDM.Sprint1.Task0.V7
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
+
             Console.WriteLine(ds.Calculate());
             Console.ReadLine();
         }
