@@ -9,7 +9,6 @@ namespace Tyuiu.ChepragaDM.Sprint1.Task0.V7.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-
             Assert.AreEqual(5, res);
         }
     }
