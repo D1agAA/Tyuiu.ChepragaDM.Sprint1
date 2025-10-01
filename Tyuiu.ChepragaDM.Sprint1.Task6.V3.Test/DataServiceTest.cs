@@ -9,7 +9,7 @@ namespace Tyuiu.ChepragaDM.Sprint1.Task6.V3.Test
         {
             DataService ds = new DataService();
             string x = "Привет, я Дима";
-            var res = ds.SymbolCode(x);
+            var res = ds.LastLetterWord(x);
             Assert.AreEqual("тяа", res);
         }
     }

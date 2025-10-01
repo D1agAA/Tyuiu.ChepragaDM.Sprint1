@@ -35,7 +35,7 @@ namespace Tyuiu.ChepragaDM.Sprint1.Task6.V3
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.SymbolCode(text));
+            Console.WriteLine(ds.LastLetterWord(text));
 
             Console.ReadKey();
         }
